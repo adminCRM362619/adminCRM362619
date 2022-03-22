@@ -29,6 +29,7 @@ env:
   ENVIRONMENT_URL: https://org3077b2ba.crm4.dynamics.com
   CLIENT-ID: 14a93e7d-f234-4424-878d-1f35a107f6b8
   TENANT-ID: b5019a8a-b79d-42a0-8d80-d8d31af037cb
+  USERNAME: admin@CRM362619.onmicrosoft.com
 
 
 jobs:
